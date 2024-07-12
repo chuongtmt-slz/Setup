@@ -34,7 +34,7 @@
 
 - Tab Email Data Storage 
   - From the 1Password Engineering vault, download the service account json key titled “ujet-dev-shared local dev service account”
-  - Add "Email Data Storage", "Folder Path" and upload “ujet-dev-shared.json" download at above step > Test connection
+  - Tab "Email Data Storage" add "Bucket Name", "Folder Path" and upload “ujet-dev-shared.json" download at [Google Cloud Storage Setup](#cloud_storage_setup) step > Test connection
 
 <img src="https://github.com/chuongtmt-slz/Setup/blob/main/Email%20Adapter%20Setup/Email-Account.png" alt="Email Account Management"></a>
 <img src="https://github.com/chuongtmt-slz/Setup/blob/main/Email%20Adapter%20Setup/Bucket.png" alt="Bucket"></a>
