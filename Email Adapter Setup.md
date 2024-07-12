@@ -23,3 +23,7 @@
 - Tab Email account list > Add email account
 <img src="https://github.com/chuongtmt-slz/Setup/blob/main/Email%20Adapter%20Setup/Account.png" alt="Account"></a>
 
+- Settings > Queue > Clicking to Email 
+  - Edit Email Menu Structure
+  - Enable Channel Settings, Update email address, Assign agents for Human agents
+<img src="https://github.com/chuongtmt-slz/Setup/blob/main/Email%20Adapter%20Setup/Structure.png" alt="Structure"></a>
