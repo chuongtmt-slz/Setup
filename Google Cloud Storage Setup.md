@@ -1,4 +1,4 @@
-<h3 align="center">Google Cloud Storage Setup</h3>
+<h3 align="center"> Google Cloud Storage Setup </h3>
 
 ---
 
@@ -11,11 +11,11 @@
    - This name must be globally unique, so you may need to add your last name
  - Configure bucket as follows:
 
-<img width=200px height=200px src="https://github.com/chuongtmt-slz/Setup/blob/main/Google%20Cloud%20Storage/google.png" alt="Google Cloud Storage Setup">
+<img src="https://github.com/chuongtmt-slz/Setup/blob/main/Google%20Cloud%20Storage/google.png" alt="Google Cloud Storage Setup">
 
-<img width=200px height=200px src="https://github.com/chuongtmt-slz/Setup/blob/main/Google%20Cloud%20Storage/name.png" alt="name">
+<img  src="https://github.com/chuongtmt-slz/Setup/blob/main/Google%20Cloud%20Storage/name.png" alt="name">
 
-<img width=200px height=200px src="https://github.com/chuongtmt-slz/Setup/blob/main/Google%20Cloud%20Storage/location.png" alt="location">
-<img width=200px height=200px src="https://github.com/chuongtmt-slz/Setup/blob/main/Google%20Cloud%20Storage/storage.png" alt="storage">
-<img width=200px height=200px src="https://github.com/chuongtmt-slz/Setup/blob/main/Google%20Cloud%20Storage/control.png" alt="control">
-<img width=200px height=200px src="https://github.com/chuongtmt-slz/Setup/blob/main/Google%20Cloud%20Storage/protect.png" alt="protect">
+<img  src="https://github.com/chuongtmt-slz/Setup/blob/main/Google%20Cloud%20Storage/location.png" alt="location">
+<img  src="https://github.com/chuongtmt-slz/Setup/blob/main/Google%20Cloud%20Storage/storage.png" alt="storage">
+<img  src="https://github.com/chuongtmt-slz/Setup/blob/main/Google%20Cloud%20Storage/control.png" alt="control">
+<img  src="https://github.com/chuongtmt-slz/Setup/blob/main/Google%20Cloud%20Storage/protect.png" alt="protect">
